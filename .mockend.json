@@ -1,5 +1,5 @@
 {
-  "posts":
+  "Post":
     [
         { "id": 1, "title": "Best Brand", "src": "https://via.placeholder.com/150", "date": "2022-09-20T08:28:25" },
         { "id": 2, "title": "Best TV", "src": "https://via.placeholder.com/150", "date": "2022-07-29T16:34:41" },
