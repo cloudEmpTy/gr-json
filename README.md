@@ -1,10 +1,7 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/cloudEmpTy/gr-json](https://my-json-server.typicode.com/cloudEmpTy/gr-json)
 
-or
-
-[https://mockend.com/cloudEmpTy/gr-json/relatedProducts](https://mockend.com/cloudEmpTy/gr-json/relatedProducts)
 
 ## Use your own data
 
