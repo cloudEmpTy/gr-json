@@ -4,7 +4,7 @@
 
 or
 
-[https://github.com/cloudEmpTy/gr-json/.mockend.json)
+[https://github.com/cloudEmpTy/gr-json/.mockend.json](https://github.com/cloudEmpTy/gr-json/.mockend.json)
 
 ## Use your own data
 
