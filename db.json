@@ -3,5 +3,271 @@
         { "id": 1, "title": "Best Brand", "src": "https://via.placeholder.com/150", "date": "2022-09-20T08:28:25Z" },
         { "id": 2, "title": "Best TV", "src": "https://via.placeholder.com/150", "date": "2022-07-29T16:34:41Z" },
         { "id": 3, "title": "Best OLED TV", "src": "https://via.placeholder.com/150", "date": "2022-08-17T12:36:54Z" }
-    ]
+    ],
+  "vendors": [
+    {
+      "name": "Amazon",
+      "affiliate_type": "amazon-us",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.amazon.com/GoPro-HERO10-Black-Waterproof-Stabilization/dp/B09CS9X5F5/"
+    },
+    {
+      "name": "Best Buy",
+      "affiliate_type": "narrativ",
+      "price": {
+        "value": 1499.99,
+        "currency": "USD",
+        "sale_value": 1399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://bestbuy.7tiv.net/c/376373/633495/10014?prodsku=6474501&u=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2F-%2F6474501.p%3Fcmp%3DRMX"
+    },
+    {
+      "name": "Target",
+      "affiliate_type": "narrativ",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 499.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.target.com/p/gopro-hero10-action-camera/-/A-82685711"
+    },
+    {
+      "name": "Wallmart",
+      "affiliate_type": "wallmart",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 599.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.walmart.com/ip/GoPro-HERO10-Black-Action-Camera/673136678"
+    },
+    {
+      "name": "Amazon",
+      "affiliate_type": "amazon-us2",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.amazon.com/GoPro-HERO10-Black-Waterproof-Stabilization/dp/B09CS9X5F5/"
+    },
+    {
+      "name": "Best Buy",
+      "affiliate_type": "narrativ2",
+      "price": {
+        "value": 1499.99,
+        "currency": "USD",
+        "sale_value": 1399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://bestbuy.7tiv.net/c/376373/633495/10014?prodsku=6474501&u=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2F-%2F6474501.p%3Fcmp%3DRMX"
+    },
+    {
+      "name": "Target",
+      "affiliate_type": "narrativ2",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 499.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.target.com/p/gopro-hero10-action-camera/-/A-82685711"
+    },
+    {
+      "name": "Wallmart",
+      "affiliate_type": "wallmart2",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 599.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.walmart.com/ip/GoPro-HERO10-Black-Action-Camera/673136678"
+    },
+    {
+      "name": "Amazon",
+      "affiliate_type": "amazon-us3",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.amazon.com/GoPro-HERO10-Black-Waterproof-Stabilization/dp/B09CS9X5F5/"
+    },
+    {
+      "name": "Best Buy",
+      "affiliate_type": "narrativ3",
+      "price": {
+        "value": 1499.99,
+        "currency": "USD",
+        "sale_value": 1399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://bestbuy.7tiv.net/c/376373/633495/10014?prodsku=6474501&u=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2F-%2F6474501.p%3Fcmp%3DRMX"
+    },
+    {
+      "name": "Target",
+      "affiliate_type": "narrativ3",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 499.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.target.com/p/gopro-hero10-action-camera/-/A-82685711"
+    },
+    {
+      "name": "Wallmart",
+      "affiliate_type": "wallmart3",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 599.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.walmart.com/ip/GoPro-HERO10-Black-Action-Camera/673136678"
+    },
+    {
+      "name": "Amazon",
+      "affiliate_type": "amazon-us",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.amazon.com/GoPro-HERO10-Black-Waterproof-Stabilization/dp/B09CS9X5F5/"
+    },
+    {
+      "name": "Best Buy",
+      "affiliate_type": "narrativ",
+      "price": {
+        "value": 1499.99,
+        "currency": "USD",
+        "sale_value": 1399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://bestbuy.7tiv.net/c/376373/633495/10014?prodsku=6474501&u=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2F-%2F6474501.p%3Fcmp%3DRMX"
+    },
+    {
+      "name": "Target",
+      "affiliate_type": "narrativ",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 499.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.target.com/p/gopro-hero10-action-camera/-/A-82685711"
+    },
+    {
+      "name": "Wallmart",
+      "affiliate_type": "wallmart",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 599.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.walmart.com/ip/GoPro-HERO10-Black-Action-Camera/673136678"
+    },
+    {
+      "name": "Amazon",
+      "affiliate_type": "amazon-us2",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.amazon.com/GoPro-HERO10-Black-Waterproof-Stabilization/dp/B09CS9X5F5/"
+    },
+    {
+      "name": "Best Buy",
+      "affiliate_type": "narrativ2",
+      "price": {
+        "value": 1499.99,
+        "currency": "USD",
+        "sale_value": 1399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://bestbuy.7tiv.net/c/376373/633495/10014?prodsku=6474501&u=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2F-%2F6474501.p%3Fcmp%3DRMX"
+    },
+    {
+      "name": "Target",
+      "affiliate_type": "narrativ2",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 499.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.target.com/p/gopro-hero10-action-camera/-/A-82685711"
+    },
+    {
+      "name": "Wallmart",
+      "affiliate_type": "wallmart2",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 599.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.walmart.com/ip/GoPro-HERO10-Black-Action-Camera/673136678"
+    },
+    {
+      "name": "Amazon",
+      "affiliate_type": "amazon-us3",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.amazon.com/GoPro-HERO10-Black-Waterproof-Stabilization/dp/B09CS9X5F5/"
+    },
+    {
+      "name": "Best Buy",
+      "affiliate_type": "narrativ3",
+      "price": {
+        "value": 1499.99,
+        "currency": "USD",
+        "sale_value": 1399.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://bestbuy.7tiv.net/c/376373/633495/10014?prodsku=6474501&u=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2F-%2F6474501.p%3Fcmp%3DRMX"
+    },
+    {
+      "name": "Target",
+      "affiliate_type": "narrativ3",
+      "price": {
+        "value": 499.99,
+        "currency": "USD",
+        "sale_value": 499.99,
+        "sale_currency": "USD"
+      },
+      "url": "https://www.target.com/p/gopro-hero10-action-camera/-/A-82685711"
+    },
+    {
+      "name": "Wallmart",
+      "affiliate_type": "wallmart3",
+      "price": {
+        "value": -49499.99,
+        "currency": "US2D",
+        "sale_value": -59599.99,
+        "sale_currency": "US2D"
+      },
+      "url": "https://www.walmart.com/ip/GoPro-HERO10-Black-Action-Camera/673136678"
+    }
+  ]
 }
