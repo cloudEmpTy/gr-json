@@ -1,25 +1,25 @@
 {
   "publications": [
    {
-    "name":"Pub 1",
+    "name":"Mock 1",
     "website":"#",
     "trustScore":90,
     "logo":"https://via.placeholder.com/150",
     "award":"Best Overall"
   },
   {
-    "name":"Pub 2",
+    "name":"Mock 2",
     "website":"#",
     "trustScore":91,
     "logo":"https://via.placeholder.com/150",
     "award":"Runner Up"
   },
   {
-    "name":"Pub 3",
+    "name":"Mock 3",
     "website":"#",
     "trustScore":92,
     "logo":"https://via.placeholder.com/150",
-    "award":"Top 10"
+    "award":"Top 5"
   }
   ], 
   "posts": [
